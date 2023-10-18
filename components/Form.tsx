@@ -39,7 +39,7 @@ function Form({ type, post, setPost, submitting, handleSubmit }: FormProps) {
             placeholder='Write your Prompt here...'
             required
             className='form_textarea'
-          ></textarea>
+          />
         </label>
 
         <label>
@@ -53,10 +53,10 @@ function Form({ type, post, setPost, submitting, handleSubmit }: FormProps) {
           <input
             value={post.tag}
             onChange={(e) => setPost({ ...post, tag: e.target.value })}
-            placeholder='#tag'
+            placeholder='tag'
             required
             className='form_input'
-          ></input>
+          />
         </label>
 
         <div className='flex-end mx-3 mb-5 gap-4'>

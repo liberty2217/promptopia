@@ -2,7 +2,7 @@
 
 import { SyntheticEvent, useEffect, useState } from 'react';
 
-import Form from '@components/Form/Form';
+import Form from '@components/Form';
 import { useRouter, useSearchParams } from 'next/navigation';
 
 function EditPrompt() {

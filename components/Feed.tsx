@@ -1,6 +1,6 @@
 'use client';
 
-import PromptCard from '@components/PromptCard/PromptCard';
+import PromptCard from '@components/PromptCard';
 import { useEffect, useState } from 'react';
 import { debounce } from 'lodash';
 import { IPrompt } from '@models/prompt';

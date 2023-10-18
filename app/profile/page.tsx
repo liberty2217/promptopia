@@ -1,6 +1,6 @@
 'use client';
 
-import ProfileComponent from '@components/Profile/Profile';
+import ProfileComponent from '@components/Profile';
 import { IPrompt } from '@models/prompt';
 import { useSession } from 'next-auth/react';
 import { useRouter } from 'next/navigation';

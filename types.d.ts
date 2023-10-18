@@ -13,4 +13,7 @@ declare module 'next-auth' {
       id?: string; // Add your custom field like this.
     };
   }
+  interface Profile {
+    picture: string;
+  }
 }

@@ -1,4 +1,4 @@
-import Nav from '@components/Nav/Nav';
+import Nav from '@components/Nav';
 import Provider from '@components/Provider/Provider';
 import '@styles/globals.css';
 

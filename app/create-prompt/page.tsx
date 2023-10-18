@@ -3,7 +3,7 @@
 import { SyntheticEvent, useState } from 'react';
 import { useSession } from 'next-auth/react';
 
-import Form from '@components/Form/Form';
+import Form from '@components/Form';
 import { useRouter } from 'next/navigation';
 
 function CreatePrompt() {

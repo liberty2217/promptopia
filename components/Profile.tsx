@@ -1,5 +1,5 @@
 import React from 'react';
-import PromptCard from '@components/PromptCard/PromptCard';
+import PromptCard from '@components/PromptCard';
 import { IPrompt } from '@models/prompt';
 
 type ProfileProps = {
