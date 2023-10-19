@@ -1,5 +1,7 @@
 # Promptopia 
 
+<img width="1242" alt="promptopa web site" src="https://github.com/liberty2217/promptopia/assets/71078231/7cfbcca3-7642-4b56-b33d-ab9fe01ed148">
+
 Responsive web app to share prompts built-in with Next JS (version 13.5), Typescript, Google Authentication, Next JS CRUD operations to create, delete, edit your promps.
 
 ## Buidling process
