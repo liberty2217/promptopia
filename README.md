@@ -1,3 +1,9 @@
+# Promptopia 
+
+Responsive web app to share prompts built-in with Next JS (version 13.5), Typescript, Google Authentication, Next JS CRUD operations to create, delete, edit your promps.
+
+## Buidling process
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
